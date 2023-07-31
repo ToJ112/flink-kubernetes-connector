@@ -1,4 +1,4 @@
-package edu.bupt;
+package org.apache.flink.connector.kubernetes;
 
 public class Main {
     public static void main(String[] args) {
